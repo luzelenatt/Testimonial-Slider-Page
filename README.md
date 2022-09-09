@@ -1,2 +1,2 @@
 # Testimonial-Slider-Page
-https://app.netlify.com/start
+https://testimonial-slider-page-leet.netlify.app/
